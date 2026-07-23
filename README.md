@@ -21,7 +21,7 @@ This dashboard consolidates the data into a single interactive report, enabling 
 
 ## Overview
 
-![Overview]([images/overview.png](https://github.com/Abdallahnashat/Sales_Performance_Dashboard_Project/blob/main/Dashboard/1-OverviewPage.png))
+![Overview](Dashboard/1-OverviewPage.png)
 
 ## Filters Panel
 

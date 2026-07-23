@@ -25,11 +25,11 @@ This dashboard consolidates the data into a single interactive report, enabling 
 
 ## Filters Panel
 
-![Filters](images/filters.png)
+![Filters]((Dashboard/2-FilterPane.png)
 
 ## Ranking
 
-![Ranking](images/ranking.png)
+![Ranking](Dashboard/3-RankingPage.png)
 
 ## Custom Tooltips
 

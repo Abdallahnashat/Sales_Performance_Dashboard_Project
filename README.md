@@ -23,9 +23,6 @@ This dashboard consolidates the data into a single interactive report, enabling 
 
 ![Overview](Dashboard/1-OverviewPage.png)
 
-## Filters Panel
-
-![Filters]((Dashboard/2-FilterPane.png)
 
 ## Ranking
 
@@ -35,8 +32,8 @@ This dashboard consolidates the data into a single interactive report, enabling 
 
 Achievement Gauge tooltip, shown on hover — turns red when performance dips below target:
 
-![Achievement Below Target](images/achievement_below_target.png)
-![Tooltip](images/tooltip.png)
+![Achievement Below Target](Dashboard/achievement_below_target.png)
+![Tooltip](Dashboard/tooltip.png)
 
 ---
 

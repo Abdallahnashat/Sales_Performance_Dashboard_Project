@@ -32,7 +32,7 @@ This dashboard consolidates the data into a single interactive report, enabling 
 
 Achievement Gauge tooltip, shown on hover — turns red when performance dips below target:
 
-![Achievement Below Target](Dashboard/achievement_below_target.png)
+![Achievement Below Target](Dashboard/AchievementBelowTarget.png)
 ![Tooltip](Dashboard/tooltip.png)
 
 ---

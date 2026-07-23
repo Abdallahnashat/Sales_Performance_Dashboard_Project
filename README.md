@@ -41,7 +41,7 @@ Achievement Gauge tooltip, shown on hover — turns red when performance dips be
 
 The report follows a **Star Schema** consisting of two fact tables connected to shared dimensions for consistent filtering and efficient analysis.
 
-![Data Model](images/data_model_star_schema.png)
+![Data Model](data_model_star_schema.png)
 
 | Table | Type |
 |--------|------|
